@@ -1,0 +1,27 @@
+name: 19dv-environment
+channels:
+  - conda-forge
+dependencies:
+  - clangdev
+  - coolprop
+  - cycler
+  - freetype
+  - glpk
+  - intel-openmp
+  - ipopt
+  - kiwisolver
+  - libblas
+  - libcblas
+  - libflang
+  - liblapack
+  - matplotlib-base
+  - metis
+  - mkl
+  - mumps-seq
+  - nose
+  - numpy
+  - openmp
+  - ply
+  - pyomo
+  - python_abi
+  - pyutilib
